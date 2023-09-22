@@ -57,5 +57,5 @@ Create a small experiment using a generative RNN. Some ideas:
 + [RNN - Text - adventures in narrated reality (part01)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
 + [RNN - Text - adventures in narrated reality (part02)](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-part-ii-dc585af054cb)
 + [RNN - Text - generating stories](https://medium.com/@samim/generating-stories-about-images-d163ba41e4ed)
-+ [RNN - Text - Sentence space](https://www.robinsloan.com/voyages-in-sentence-space/)
++ [RNN - Text - Sentence space](https://www.robinsloan.com/notes/voyages-in-sentence-space/)
 + [RNN - Text - Word embedding library - Spacy]()
