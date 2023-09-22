@@ -23,7 +23,7 @@ This week will be mostly about planning and inspirations. We will go together th
 ## Intro
 
 * Me / Class
-    * [:tv: intro](https://digitalideation.github.io/digcre_h2201/slides/intro_part01.html)
+    * [:tv: intro](https://digitalideation.github.io/digcre_h2301/slides/intro_part01.html)
     * Class
     * Philosophy
         * [Peer Learning](https://42.fr/en/what-is-42/the-42-method/)
@@ -40,7 +40,7 @@ This week will be mostly about planning and inspirations. We will go together th
     * Getting help
         * How to ask for help
         * Pair programming
-        * [Code of conduct](https://digitalideation.github.io/digcre_h2201#academic-integrity) (OSS, etc...)
+        * [Code of conduct](https://digitalideation.github.io/digcre_h2301#academic-integrity) (OSS, etc...)
     * Giving feedback:
         * Exit ticket 3 Questions at the end of each class
         * Critique and Feedback: interactive
@@ -50,7 +50,7 @@ This week will be mostly about planning and inspirations. We will go together th
 
 * Watch the [NN - Intro videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) from 3blue1brown.
 * Complete the notebooks in _"Working with Notebooks in Colab"_ (in the section _"More Resources"_) from the [intro to colaboratory notebook](https://colab.research.google.com/notebooks/intro.ipynb)
-* Start [learning python the hard way](https://learnpythonthehardway.org/python3/), the full book is available in the [resource folder :books:](https://digitalideation.github.io/digcre_h2201/resources/LearnPython3theHardWay.pdf)
+* Start [learning python the hard way](https://learnpythonthehardway.org/python3/), the full book is available in the [resource folder :books:](https://digitalideation.github.io/digcre_h2301/resources/LearnPython3theHardWay.pdf)
 * Read more about [the history of Machine Learning](https://cloud.withgoogle.com/build/data-analytics/explore-history-machine-learning/)
 * Get [inspired](https://mlart.co/)!
 

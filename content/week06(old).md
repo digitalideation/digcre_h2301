@@ -22,7 +22,7 @@ This week we will:
 
 ## Weekly task
 
-Run and discuss the notebooks in `digcre_h2201/samples/notebooks`. We will do that part in class most likely.
+Run and discuss the notebooks in `digcre_h2301/samples/notebooks`. We will do that part in class most likely.
 
 ```
 ├── 08-image-search.ipynb

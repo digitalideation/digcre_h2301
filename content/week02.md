@@ -21,14 +21,14 @@ This week we look back at what we learned so far and get a first taste of Keras 
 
 ## Content
 
-* [:tv: Looking back at the inner working of a NN](https://digitalideation.github.io/digcre_h2201/slides/intro_part02.html)
+* [:tv: Looking back at the inner working of a NN](https://digitalideation.github.io/digcre_h2301/slides/intro_part02.html)
 * Intro to tools: [Keras](https://keras.io/)
-* [First steps with Keras](https://github.com/digitalideation/digcre_h2201/tree/master/samples/week02)
+* [First steps with Keras](https://github.com/digitalideation/digcre_h2301/tree/master/samples/week02)
     * First Look
     * Classifying movie reviews
     * Shape classifier
 * Intro to tools: [Pytorch](https://pytorch.org/)
-* [First steps with Pytorch](https://github.com/digitalideation/digcre_h2201/tree/master/samples/week02)
+* [First steps with Pytorch](https://github.com/digitalideation/digcre_h2301/tree/master/samples/week02)
     * Using pretrained models
     * All as tensors
     * Turn real-world data into tensors
