@@ -20,7 +20,7 @@ This week we look back at what we learned so far and get a first taste of Keras 
 ## Content
 
 - Sharing and inspiration
-- [:question: what is colab](https://digitalideation.github.io/digcre_h2301/slides/week2.html)
+- [:question: what is colab](https://digitalideation.github.io/digcre_h2301/slides/week02.html)
 - Intro to tools: [Keras](https://keras.io/)
 - [First steps with Keras](https://github.com/digitalideation/digcre_h2301/tree/master/samples/week02)
   - First Look
