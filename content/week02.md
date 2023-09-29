@@ -47,5 +47,5 @@ Practice you Python skills, do some research for tools / ideas.
 
 - [DL with Pytorch](../resources/Deep_Learning_with_Python_Second_Editio.pdf)
 - [DL with Python](../resources/Deep_Learning_with_PyTorch.pdf)
-- Also on [Manning](https://www.manning.com/) | Username + pwd sent separately
+- Also on [Manning](https://www.manning.com/). Username + pwd sent separately
 - [Learn Python the hard way](../resources/LearnPython3theHardWay.pdf)
