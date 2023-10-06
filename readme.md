@@ -25,7 +25,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - Inner working of a Neural Network
 - Intro to tools: Colab / Jupyter
 
-### [Week 02](content/week02.md)
+### [Week 02](content/week02.md) | [:clapper:](https://drive.switch.ch/index.php/s/MNhBQgPwrspNB72)
 
 - Looking back at the inner working of a NN
 - Intro to tools: TF, Pytorch
@@ -34,44 +34,42 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 03
 
-- Hugging Face session 01 :hugging*face: with [Lewis Tunstall](https://twitter.com/_lewtun) *(:warning: [remote session](#) :warning:)\_
+- ImageGen :ferris_wheel:
+
+### Week 04 | [:clapper:](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8) / [:clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
+
+- Hugging Face part 01 :hugging*face: with [Lewis Tunstall](https://twitter.com/_lewtun)
   - NLP
   - HuggingFace API
-
-### [Week 04](content/week04.md)
-
-- Machine Learning Project Checklist
-- ~~Creating a dataset~~
-- Machine Learning for computer vision (ConvNets)
-- Training a NN: Intro to tools (Keras, ~~ML5.js, Paperspace~~)
+- Hugging Face part 02 :hugging*face: with [Lewis Tunstall](https://twitter.com/_lewtun)
+  - Image generation
 
 ### Week 05
 
-- Hugging Face session 02 :hugging*face: with [Lewis Tunstall](https://twitter.com/_lewtun) *(:warning: [remote session](#) :warning:)\_
-  - Image generation
+- Ethics
+- Responsibilities
+- TBA
 
 ### Week 06
+
+### Week 07
 
 - Meetup in Rotkreuz :triangular_flag_on_post:
 - Project presentation + discussions
 
-### Week 07
+### Week 08
 
-- Project discussions, going through the missing projects
-- Misc. inputs
-
-### [Week 08](content/week08.md)
-
-- Q&A
-- Machine Learning for computer vision (ConvNets)
+- TBA
 
 ### Week 09
 
+- TBA
+
+### Week 10
+
 - Group work
 
-### [Week 10](content/week08.md)
-
-- M.M.L.C.V -> More.Machine.Learning.for.Computer.Vision (ConvNets) :)
+### Week 11
 
 ## Evaluation
 
