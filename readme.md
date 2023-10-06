@@ -38,10 +38,10 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 04 | [:clapper:](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8) / [:clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
 
-- Hugging Face part 01 :hugging*face: with [Lewis Tunstall](https://twitter.com/_lewtun)
+- Hugging Face part 01 :hugs: with [Lewis Tunstall](https://twitter.com/_lewtun)
   - NLP
   - HuggingFace API
-- Hugging Face part 02 :hugging*face: with [Lewis Tunstall](https://twitter.com/_lewtun)
+- Hugging Face part 02 :hugs: with [Lewis Tunstall](https://twitter.com/_lewtun)
   - Image generation
 
 ### Week 05
