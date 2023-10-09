@@ -32,17 +32,20 @@ Once we get a good grasp of the different techniques, we will experiment further
 - First steps with Pytorch
 - Building a simple classifier
 
-### Week 03
+### Week 03 | [:clapper:](https://drive.switch.ch/index.php/s/AA3iEiAyOUymKhu)
 
 - ImageGen :ferris_wheel:
 
-### Week 04 | [:clapper:](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8) / [:clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
+### Week 04
 
-- Hugging Face part 01 :hugs: with [Lewis Tunstall](https://twitter.com/_lewtun)
-  - NLP
-  - HuggingFace API
-- Hugging Face part 02 :hugs: with [Lewis Tunstall](https://twitter.com/_lewtun)
-  - Image generation
+- Lectures (x2) by [Lewis Tunstall](https://twitter.com/_lewtun)
+  - Hugging Face part 01 :hugs: (NLP, Transformers, HF API)
+    - [Video :clapper:](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8)
+    - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
+  - Hugging Face part 02 :hugs: (Image generation)
+    - [Video :clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
+    - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
+  - [Related discord posts from Lewis](./assets/images/lewtun_discord_posts.png)
 
 ### Week 05
 
