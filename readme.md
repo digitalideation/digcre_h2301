@@ -51,10 +51,11 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - **Onsite**, catching up on projects, sharing / discussions
 
-### Week 06
+### [Week 06](content/week06.md)
 
-- Ethics
+- Principles
 - Responsibilities
+- References
 - **LLM**
 
 ### Week 07
