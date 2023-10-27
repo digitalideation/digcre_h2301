@@ -47,9 +47,9 @@ Once we get a good grasp of the different techniques, we will experiment further
     - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
   - [Related discord posts from Lewis](./assets/images/lewtun_discord_posts.png)
 
-### Week 05
+### Week 05 | [:clapper:](https://drive.switch.ch/index.php/s/FxhRo0C7bzBgjt6)
 
-- Onsite, catching up on projects, sharing / discussions
+- **Onsite**, catching up on projects, sharing / discussions
 
 ### Week 06
 
@@ -59,8 +59,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 07
 
-- Meetup in Rotkreuz :triangular_flag_on_post:
-- Project presentation + discussions
+- TBA
 
 ### Week 08
 
