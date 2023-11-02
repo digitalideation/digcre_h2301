@@ -51,16 +51,16 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - **Onsite**, catching up on projects, sharing / discussions
 
-### [Week 06](content/week06.md)
+### [Week 06](content/week06.md) | [:clapper:](https://drive.switch.ch/index.php/s/WDnHxhVAdJ8ZnWs)
 
 - Principles
 - Responsibilities
 - References
 - **LLM**
 
-### Week 07
+### [Week 07](content/week07.md)
 
-- TBA
+- HF
 
 ### Week 08
 

@@ -61,6 +61,7 @@ REF:
 - https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921
 - https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html
 - https://criticalai.org/2023/04/06/noah-giansiracusa-on-you-can-have-the-blue-pill-or-the-red-pill-and-were-out-of-blue-pills-in-the-new-york-times-3-24-2023/
+- https://www.newyorker.com/magazine/2018/04/02/the-mind-expanding-ideas-of-andy-clark
 - Les animaux dénaturés
 - LLM
 - https://cameronrwolfe.substack.com/p/the-history-of-open-source-llms-better
