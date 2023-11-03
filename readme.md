@@ -60,7 +60,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### [Week 07](content/week07.md)
 
-- HF
+- Research
 
 ### Week 08
 
@@ -72,7 +72,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 10
 
-- Group work
+- TBA
 
 ### Week 11
 
