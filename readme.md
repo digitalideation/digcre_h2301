@@ -62,7 +62,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Research
 
-### Week 09
+### Week 08
 
 - ImageGen (Round 2 :boom:)
 - Research
