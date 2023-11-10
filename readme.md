@@ -58,13 +58,14 @@ Once we get a good grasp of the different techniques, we will experiment further
 - References
 - **LLM**
 
-### [Week 07](content/week07.md)
+### [Week 07](content/week07.md) | [:clapper:](https://drive.switch.ch/index.php/s/qFcrmh3sYLSHVUM)
 
 - Research
 
-### Week 08
+### Week 09
 
-- TBA
+- ImageGen (Round 2 :boom:)
+- Research
 
 ### Week 09
 
