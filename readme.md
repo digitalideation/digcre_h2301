@@ -62,7 +62,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Research
 
-### Week 08
+### Week 08 | [:clapper:](https://drive.switch.ch/index.php/s/16XaQdnWmI55MVc)
 
 - ImageGen (Round 2 :boom:)
 - Research
