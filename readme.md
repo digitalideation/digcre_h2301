@@ -69,7 +69,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 09
 
-- TBA
+- Audio + Ngrok
 
 ### Week 10
 
