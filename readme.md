@@ -67,7 +67,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 - ImageGen (Round 2 :boom:)
 - Research
 
-### Week 09
+### Week 09 | [:clapper:](https://drive.switch.ch/index.php/s/z8rhaYZv8unScpy)
 
 - Audio + Ngrok
 
