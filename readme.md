@@ -73,7 +73,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Week 10
 
-- TBA
+- Animation! And then some... :)
 
 ### Week 11
 
