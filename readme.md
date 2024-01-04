@@ -79,7 +79,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Animation! And then some... :)
 
-### Week 11? | [:clapper:](https://drive.switch.ch/index.php/s/Gh1QU2vk3g5t423)
+### [Week 11?](content/week11.md) | [:clapper:](https://drive.switch.ch/index.php/s/Gh1QU2vk3g5t423)
 
 - Presentations
 - Feedback!
