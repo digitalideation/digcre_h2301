@@ -5,6 +5,10 @@
 
 [★★★ This repository is published here ★★★](https://digitalideation.github.io/digcre_h2301/)
 
+## Results
+
+Coming Soon!
+
 ## Intro
 
 In this module we will explore different applications of ML/AI/DL with a particular focus on design and art. We will first learn how neural networks work with simple code examples, then we will experiment with different techniques of Deep Learning:
@@ -75,7 +79,11 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Animation! And then some... :)
 
-### Week 11
+### Week 11? | [:clapper:](https://drive.switch.ch/index.php/s/Gh1QU2vk3g5t423)
+
+- Presentations
+- Feedback!
+- Lost count of the weeks :S
 
 ## Evaluation
 
